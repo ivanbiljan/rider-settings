@@ -1,0 +1,8 @@
+<application>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="allowToCompleteWithWhitespace" value="false" />
+  </component>
+  <component name="RiderDefaultCodeFoldingSettings">
+    <option name="collapseRegions" value="false" />
+  </component>
+</application>
