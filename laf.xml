@@ -5,7 +5,11 @@
       <laf-to-scheme laf="GitHub Dark Dimmed" scheme="_@user_GitHub Dark Dimmed" />
       <laf-to-scheme laf="GitHub Light" scheme="_@user_GitHub Light" />
       <laf-to-scheme laf="Light" scheme="_@user_Light" />
+      <laf-to-scheme laf="Light with Light Header" scheme="_@user_Light" />
+      <laf-to-scheme laf="ReSharper Night" scheme="_@user_ReSharper Dark" />
+      <laf-to-scheme laf="Rider Day" scheme="_@user_Rider Light" />
       <laf-to-scheme laf="Rider Melon Day" scheme="_@user_Rider Melon Light" />
+      <laf-to-scheme laf="Rider Melon Night" scheme="_@user_Rider Melon Dark" />
       <laf-to-scheme laf="Rider Night" scheme="_@user_Rider Dark" />
       <laf-to-scheme laf="Visual Assist Day" scheme="_@user_Visual Assist Light" />
       <laf-to-scheme laf="Visual Studio Day" scheme="_@user_Visual Studio Light" />
