@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Jit.Payments.Enfuce\IEnfuceApi.cs'" />
-    <option name="defaultScopeName" value="File '…\Jit.Payments.Enfuce\IEnfuceApi.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Jit.Payments.Enfuce\IEnfuceApi.cs'" />
+    <option name="customScope" value="File '…\Jit.Api\Services\PaymentCards\EnfuceYayPaymentCardService.cs'" />
+    <option name="defaultScopeName" value="File '…\Jit.Api\Services\PaymentCards\EnfuceYayPaymentCardService.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Jit.Api\Services\PaymentCards\EnfuceYayPaymentCardService.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
