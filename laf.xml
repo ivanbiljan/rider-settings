@@ -1,6 +1,6 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="VisualStudioDay" />
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="VisualStudioNight" />
     <lafs-to-previous-schemes>
       <laf-to-scheme laf="GitHub Dark Dimmed" scheme="_@user_GitHub Dark Dimmed" />
       <laf-to-scheme laf="GitHub Light" scheme="_@user_GitHub Light" />
