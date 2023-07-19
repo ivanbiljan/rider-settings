@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '…\Jit.ExpoSdk\ExpoPushNotificationChunk.cs'" />
-    <option name="defaultScopeName" value="File '…\Jit.ExpoSdk\ExpoPushNotificationChunk.cs'" />
-    <option name="SEARCH_SCOPE" value="File '…\Jit.ExpoSdk\ExpoPushNotificationChunk.cs'" />
+    <option name="customScope" value="File '…\Jit.ExpoSdk\ApiModels\Response\PushTicket.cs'" />
+    <option name="defaultScopeName" value="File '…\Jit.ExpoSdk\ApiModels\Response\PushTicket.cs'" />
+    <option name="SEARCH_SCOPE" value="File '…\Jit.ExpoSdk\ApiModels\Response\PushTicket.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
