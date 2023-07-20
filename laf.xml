@@ -1,9 +1,11 @@
 <application>
   <component name="LafManager" autodetect="false">
-    <laf class-name="com.intellij.ide.ui.laf.IntelliJLaf" themeId="VisualStudioDay" />
+    <laf class-name="com.intellij.ide.ui.laf.darcula.DarculaLaf" themeId="ExperimentalDark" />
     <lafs-to-previous-schemes>
+      <laf-to-scheme laf="Dark" scheme="_@user_Dark" />
       <laf-to-scheme laf="GitHub Dark Dimmed" scheme="_@user_GitHub Dark Dimmed" />
       <laf-to-scheme laf="GitHub Dark Experimental" scheme="_@user_GitHub Dark Experimental" />
+      <laf-to-scheme laf="GitHub Dark High Contrast" scheme="_@user_GitHub Dark High Contrast" />
       <laf-to-scheme laf="GitHub Light" scheme="_@user_GitHub Light" />
       <laf-to-scheme laf="High contrast" scheme="_@user_High contrast" />
       <laf-to-scheme laf="Light" scheme="_@user_Light" />
